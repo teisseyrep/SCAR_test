@@ -1,6 +1,6 @@
 # SCAR #
 
-This is the repository for the paper "Verifying Selected Completely At Random (SCAR) assumption in Positive-Unlabeled Learning".
+This is the repository for the paper "Verifying Selected Completely At Random (SCAR) assumption in Positive-Unlabeled Learning", accepted on the main track at the ECAI 2024 conference.
 
 The repository contains source code,  datasets used for experiments and the supplement.
 
