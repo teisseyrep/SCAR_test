@@ -1,6 +1,6 @@
 # SCAR #
 
-This is the repository for the paper "Veryfying Selected Comletely At Random (SCAR) assumption in Positive-Unlabeled Learning".
+This is the repository for the paper "Verifying Selected Completely At Random (SCAR) assumption in Positive-Unlabeled Learning".
 
 The repository contains source code,  datasets used for experiments and the supplement.
 
