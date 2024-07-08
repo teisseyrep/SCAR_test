@@ -1,0 +1,5 @@
+name: scar
+channels:
+  - numpy
+  - scikit-learn
+  - pandas
